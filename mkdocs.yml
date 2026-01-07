@@ -1,0 +1,16 @@
+site_name: Waleed Ahmed | Data Science Portfolio
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+nav:
+  - Home: index.md
+  - Skills: skills.md
+  - Projects: projects.md
+  - Resume: resume.md
+  - About: about.md
+  - Blog: blog.md
+  - Contact: contact.md
